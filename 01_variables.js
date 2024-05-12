@@ -1,6 +1,6 @@
 const accountId = "12556"
-let accountName = "himanshu"
-var accountEmail = "himanshu@google.com"
+let accountName = "Kunal"
+var accountEmail = "rishi@google.com"
 accountBalance = 500000
 
 // cannot edit a const variable in javascript 
@@ -9,7 +9,7 @@ accountBalance = 500000
 // with "//" we can add single line comments in javascript
 
 accountName = "Rohit"
-accountEmail = "rohit@google.com"
+accountEmail = "vivek@google.com"
 // with /* */  this we can multiple line comments in javascript
 console.log(accountName)
 
